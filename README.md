@@ -1,12 +1,12 @@
 # This repository will be deleted imminently
 
-### Create a fresh fork ASAP to preserve it, you MUST fork a 100% fresh copy in order for the repository to be considered genuine
+### Create a fresh fork ASAP to preserve it, you MUST fork a 100% fresh copy in order for the repository to be considered genuine this is not one of those I edited the readme so its not gonna be 100%. I will if there is enough demand I will make a 100% fresh version but besides updating the links to work with what I created it is 100% fresh.
 
-### Please read `LAX1DUDE_SIGNATURE.txt` for instructions to verify this is an original copy, if the file is not present then do not use this copy of the project
+### Please read `LAX1DUDE_SIGNATURE.txt` for instructions to verify this is an original copy, which it isn't but I can make one
 
 ### LAX1DUDE's PGP key is here: [https://deev.is/certs/LAX1DUDE_eagler_public.asc](https://deev.is/certs/LAX1DUDE_eagler_public.asc)
 
-### Do not edit this README, modifying any file will invalidate the repository's checksum
+### Do not edit this README, modifying any file will invalidate the repository's checksum I did this to make updated links 
 
 ### Download your worlds off of [https://g.deev.is/eaglercraft/](https://g.deev.is/eaglercraft/) and alts in case of a URL change for the demo client
 
